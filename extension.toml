@@ -1,0 +1,7 @@
+id = "rx-theme"
+name = "RX Theme"
+version = "0.0.1"
+schema_version = 1
+authors = ["ruxwez"]
+description = "A sleek, dark theme with deep neutral tones and subtle contrasts, designed for long coding sessions with minimal eye strain."
+repository = "https://github.com/ruxwez/zed-rx-theme"
