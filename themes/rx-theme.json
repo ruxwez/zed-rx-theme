@@ -177,7 +177,7 @@
         ],
         "syntax": {
           "attribute": {
-            "color": "#58a6ffff",
+            "color": "#B392F0FF",
             "font_style": null,
             "font_weight": null
           },
@@ -222,7 +222,7 @@
             "font_weight": 700
           },
           "enum": {
-            "color": "#ff8c00ff",
+            "color": "#FF8C00FF",
             "font_style": null,
             "font_weight": null
           },
@@ -297,12 +297,12 @@
             "font_weight": null
           },
           "punctuation.bracket": {
-            "color": "#c8c8c8ff",
+            "color": "#FFC757FF",
             "font_style": null,
             "font_weight": null
           },
           "punctuation.delimiter": {
-            "color": "#c8c8c8ff",
+            "color": "#FF5370FF",
             "font_style": null,
             "font_weight": null
           },
@@ -317,7 +317,7 @@
             "font_weight": null
           },
           "punctuation.special": {
-            "color": "#ffa657ff",
+            "color": "#FFA657FF",
             "font_style": null,
             "font_weight": null
           },
@@ -332,7 +332,7 @@
             "font_weight": null
           },
           "string": {
-            "color": "#a5d6ffff",
+            "color": "#FFAB70FF",
             "font_style": null,
             "font_weight": null
           },
@@ -347,7 +347,7 @@
             "font_weight": null
           },
           "string.special": {
-            "color": "#ffa657ff",
+            "color": "#FFA657FF",
             "font_style": null,
             "font_weight": null
           },
@@ -357,12 +357,12 @@
             "font_weight": null
           },
           "tag": {
-            "color": "#ffa657ff",
+            "color": "#FFA657FF",
             "font_style": null,
             "font_weight": null
           },
           "text.literal": {
-            "color": "#a5d6ffff",
+            "color": "#A5D6FFFF",
             "font_style": null,
             "font_weight": null
           },
@@ -372,7 +372,7 @@
             "font_weight": 700
           },
           "type": {
-            "color": "#d2a8ffff",
+            "color": "#66B8FFFF",
             "font_style": null,
             "font_weight": null
           },
@@ -382,7 +382,7 @@
             "font_weight": null
           },
           "variable.special": {
-            "color": "#58a6ffff",
+            "color": "#58A6FFFF",
             "font_style": null,
             "font_weight": null
           },
@@ -407,5 +407,5 @@
       }
     }
   ],
-  "description": "A sleek, dark theme with deep neutral tones and vivid accent colors, designed for long coding sessions with excellent readability."
+  "isUserGenerated": true
 }
